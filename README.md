@@ -15,13 +15,13 @@
   </div>
 
 - Skills :
-<div style="display:flex;flex-wrap:wrap;justify-content:space-between;">
-  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/c.svg" height="100" width="100">
-  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/python.svg" height="100" width="100">
-  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/html.svg" height="100" width="100">
-  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/css.svg" height="100" width="100">
-  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/javascript.svg" height="100" width="100">
-  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/SeekPng.com_sass-logo-png_3772047.png" height="100" width="100">
+<div style="display:flex;flex-wrap:wrap;">
+  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/c.svg" height="60" width="60">
+  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/python.svg" height="60" width="60">
+  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/html.svg" height="60" width="60">
+  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/css.svg" height="60" width="60">
+  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/javascript.svg" height="60" width="60">
+  <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/SeekPng.com_sass-logo-png_3772047.png" height="60" width="60">
 </div>
 
 <!---
