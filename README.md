@@ -3,7 +3,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-  > ☕ Connect with me!
+- ☕ Connect with me!
   <div>
   <a href="https://www.facebook.com/tayeb.tas.13913">
   <img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" />
@@ -14,7 +14,7 @@
   </a>
   </div>
 
-- Skills :
+  > Skills :
 <div style="display:flex;flex-wrap:wrap;">
   <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/c.svg" height="60" width="60">
   <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/python.svg" height="60" width="60">
