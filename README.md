@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tayebkpj@gmail.com
+- 📫<i class="fa-regular fa-envelope"></i> How to reach me tayebkpj@gmail.com
 - 💬 Social https://www.facebook.com/tayeb.tas.13913
 - Skills :
 <div style="display:flex;flex-wrap:wrap;justify-content:space-between;">
