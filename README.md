@@ -1,4 +1,4 @@
-### Hey Dear Friends
+### Hello There
 - 👋 I’m Tayeb
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
