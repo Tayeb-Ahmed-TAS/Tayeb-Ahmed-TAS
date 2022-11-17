@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - ☕ Connect with me!
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tayeb-Ahmed-TAS) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tayeb.tas.13913)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](tayebkpj@gmail.com)  
+<a href="https://fb.com/tayeb.tas.13913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tayeb.tas.13913" height="30" width="40" /></a>  
 
   >Skills:
 <div style="display:flex;flex-wrap:wrap;">
