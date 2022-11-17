@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - ☕ Connect with me!
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tayeb-Ahmed-TAS) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tayeb.tas.13913)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](tayebkpj@gmail.com)  
 
  > Skills :
 <div style="display:flex;flex-wrap:wrap;">
@@ -14,8 +16,6 @@
   <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/javascript.svg" height="60" width="60">
   <img src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/SeekPng.com_sass-logo-png_3772047.png" height="60" width="60">
 </div>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tayeb-Ahmed-TAS) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tayeb.tas.13913)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](tayebkpj@gmail.com)  
 
 
 
