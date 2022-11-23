@@ -1,7 +1,7 @@
 ## Hello There
 - 👋 I’m Tayeb
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 - 🔭 I’m currently working on [Python](https://github.com/Tayeb-Ahmed-TAS/Python-Introduction)
 - 💞️ I’m looking to collaborate on ...
 - ☕ Connect with me!
   
@@ -14,7 +14,7 @@
   
 <a href="https://github.com/Tayeb-Ahmed-TAS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tayeb-Ahmed-TAS&show_icons=true&include_all_commits=true&&theme=tokyonight&hide_border=true&card_width=230" alt="Anurag's github stats" /> &nbsp; </a><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayeb-Ahmed-TAS&theme=gotham&show_icons=true" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayeb-Ahmed-TAS&theme=gotham&show_icons=true&layout=compact" /></a>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tayeb-Ahmed-TAS&theme=gotham&show_icons=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tayeb-ahmed-tas&theme=gotham&show_icons=true) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tayeb-Ahmed-TAS&label=Profile%20views&color=0e75b6&style=flat" alt="tayeb-ahmed-tas" /> </p>
 
