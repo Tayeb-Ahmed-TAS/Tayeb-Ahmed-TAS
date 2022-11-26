@@ -1,7 +1,7 @@
 ## Hello There
 - 👋 I’m Tayeb
 - 👀 I’m interested in Coding
-- 🌱 - 🔭 I’m currently working on [Python](https://github.com/Tayeb-Ahmed-TAS/Python-Introduction)
+- 🔭 I’m currently working on [Python](https://github.com/Tayeb-Ahmed-TAS/Python-Introduction)
 - 💞️ I’m looking to collaborate on ...
 - ☕ Connect with me!
   
