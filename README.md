@@ -1,7 +1,7 @@
 ## Hello There
 - 👋 I’m Tayeb
 - 👀 I’m interested in Coding
-- 🔭 I’m currently working on [C++](https://github.com/Tayeb-Ahmed-TAS/CPP) && [SQL](https://github.com/Tayeb-Ahmed-TAS/SQL)
+- 🔭 I’m currently working on [C++](https://github.com/Tayeb-Ahmed-TAS/CPP) && [DSA](https://github.com/Tayeb-Ahmed-TAS/DSA-with-CPP)
 - 💞️ I’m looking to collaborate on ...
 - ☕ Connect with me!
   
