@@ -1,4 +1,4 @@
-## Hello There
+## Hey, Hello There
 - 👋 I’m Tayeb
 - 👀 I’m interested in Coding
 - 🔭 I’m currently working on [DSA](https://github.com/Tayeb-Ahmed-TAS/DSA-with-CPP)
