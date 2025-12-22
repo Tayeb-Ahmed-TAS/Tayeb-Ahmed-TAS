@@ -1,4 +1,3 @@
-## Hey, Hello There
 # 💫 About Me:
 👋 I’m **Tayeb**<br>👀 I’m interested in **Software Development and Problem Solving**<br>🌱 I’m currently working on **building full-stack applications and improving my core CS fundamentals**<br>🤝 I’m looking to collaborate on **open-source projects and impactful development work**
 
